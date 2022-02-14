@@ -48,7 +48,7 @@ function App() {
     <>
       <header css={style.header}>
         <h1>Nanbo</h1>
-        <p>ねだん比較アプリ</p>
+        <p>最安値がわかる金額計算アプリ</p>
       </header>
       <form>
         <FormList
