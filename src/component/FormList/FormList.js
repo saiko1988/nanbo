@@ -47,7 +47,7 @@ const FormList = ({ forms, updateForms, removeForm, minPriceId }) => {
 
     const inputs = [
       { name: 'price', prefix: '単価', suffix: '円' },
-      { name: 'amount', prefix: '数量', suffix: 'グラム' },
+      { name: 'amount', prefix: '数量', suffix: '' },
       { name: 'discountRate', prefix: '割引率', suffix: '%' },
     ];
 
